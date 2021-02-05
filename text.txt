@@ -1,0 +1,24 @@
+ font:   dosis
+
+ color-  black:  #333333
+         white:  #fff
+           ash:  #707070 #bbbbbb
+           yello #ffd338
+           pink  #f05c5c
+                 #989898
+ 
+  padding-top
+  padding-bottom
+  xxl-xl-lg   md    sm   ex  
+  90          90    70	 50
+
+
+
+ Banner h1-px
+ xxl-xl-lg   md    sm   ex  
+ 48          48    38   33
+
+
+kid h1
+xxl-xl-lg   md    sm   ex  
+30			30    25
